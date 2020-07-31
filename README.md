@@ -1,2 +1,1 @@
-# Machine_Learning
-Basics of ML
+# Machine_Learning_Lab BCSE3093
